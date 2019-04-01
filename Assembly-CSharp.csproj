@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{433E30FB-FEFC-FB60-FF0E-57ED3A65A243}</ProjectGuid>
+    <ProjectGuid>{4A02EF70-0175-7D23-1D02-A6E1C09ABDE3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -124,16 +124,16 @@
      <None Include="Assets\Oculus\VR\Resources\Underlay Impostor.shader" />
      <None Include="Assets\Oculus\VR\Plugins\placeholder.txt" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/megam/OneDrive/المستندات/LCCVR_Practical/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/megam/OneDrive/المستندات/PracticalV2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/megam/OneDrive/المستندات/LCCVR_Practical/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/megam/OneDrive/المستندات/PracticalV2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/megam/OneDrive/المستندات/LCCVR_Practical/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/megam/OneDrive/المستندات/PracticalV2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/megam/OneDrive/المستندات/LCCVR_Practical/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/megam/OneDrive/المستندات/PracticalV2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8B84E4A7-3D88-6449-3962-2E1BBE2B3FF6}</ProjectGuid>
+    <ProjectGuid>{D4B555E2-BB0B-8167-5E85-A75F00845292}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -63,16 +63,16 @@
      <Compile Include="Assets\Oculus\VR\Scripts\Editor\OVRManagerEditor.cs" />
      <None Include="Assets\Oculus\VR\Editor\AndroidManifest.OVRSubmission.xml" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/megam/OneDrive/المستندات/LCCVR_Practical/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/megam/OneDrive/المستندات/PracticalV2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/megam/OneDrive/المستندات/LCCVR_Practical/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/megam/OneDrive/المستندات/PracticalV2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/megam/OneDrive/المستندات/LCCVR_Practical/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/megam/OneDrive/المستندات/PracticalV2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/megam/OneDrive/المستندات/LCCVR_Practical/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/megam/OneDrive/المستندات/PracticalV2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -362,7 +362,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{433E30FB-FEFC-FB60-FF0E-57ED3A65A243}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{4A02EF70-0175-7D23-1D02-A6E1C09ABDE3}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

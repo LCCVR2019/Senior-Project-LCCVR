@@ -2,7 +2,7 @@ Android
 PlayerPath?
 C:/Users/megam/Desktop/Practical.apk
 SceneListBegin?
-Assets/_Motherboard/CPU_Box.unity
+Assets/_Motherboard/Motherboard.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 aae86b4ba2c26ab0769b16b054a05061 Assembly-CSharp.dll:.OVRMixedRealityCaptureSettings
