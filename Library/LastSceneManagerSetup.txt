@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Motherboard/Motherboard.unity
+- path: Assets/Scenes/FLearnEn.unity
   isLoaded: 1
   isActive: 1
