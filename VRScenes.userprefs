@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Assets\_Motherboard\Scripts\PartTracker.cs">
+    <Files>
+      <File FileName="Assets\Assets\_Example\Scripts\Reticule.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\_Example\Scripts\Pointer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\_Example\Scripts\PlayerEvents.cs" Line="124" Column="16" />
+      <File FileName="Assets\Assets\_Example\Scripts\Interactable.cs" Line="9" Column="51" />
+      <File FileName="Assets\Assets\_Motherboard\Scripts\Output.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\_Motherboard\Scripts\Part.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\_Motherboard\Scripts\PartTracker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assets\_Motherboard\Scripts\Socket.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

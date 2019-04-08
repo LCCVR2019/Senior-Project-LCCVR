@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2DF57B26-B8C0-FACF-C1C9-36F3341295A8}</ProjectGuid>
+    <ProjectGuid>{C689B886-8C3A-396C-65B8-17402AA049EB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_3_2;UNITY_2018_3;UNITY_2018;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_TEXTURE_STREAMING;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_VIDEO;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_LOCALIZATION;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_EVENT_QUEUE;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_AR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_3_2;UNITY_2018_3;UNITY_2018;UNITY_INCLUDE_TESTS;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_TEXTURE_STREAMING;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_VIDEO;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_LOCALIZATION;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_EVENT_QUEUE;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_AR;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_RUNTIME_PERMISSIONS;UNITY_ASTC_ONLY_DECOMPRESS;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;CURVEDUI_OCULUSVR;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -53,6 +53,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\arabicLang.cs" />
+     <Compile Include="Assets\ArabicSupport.cs" />
+     <Compile Include="Assets\ArabicSupport1.cs" />
      <Compile Include="Assets\Assets\_Example\Scripts\Interactable.cs" />
      <Compile Include="Assets\Assets\_Example\Scripts\PlayerEvents.cs" />
      <Compile Include="Assets\Assets\_Example\Scripts\Pointer.cs" />
@@ -61,24 +64,10 @@
      <Compile Include="Assets\Assets\_Motherboard\Scripts\Part.cs" />
      <Compile Include="Assets\Assets\_Motherboard\Scripts\PartTracker.cs" />
      <Compile Include="Assets\Assets\_Motherboard\Scripts\Socket.cs" />
-     <Compile Include="Assets\Assets\arabicLang.cs" />
-     <Compile Include="Assets\Assets\ArabicSupport.cs" />
-     <Compile Include="Assets\Assets\ArabicSupport1.cs" />
-     <Compile Include="Assets\Assets\Backenternal.cs" />
-     <Compile Include="Assets\Assets\Backexternal.cs" />
-     <Compile Include="Assets\Assets\cpuboxlearn.cs" />
-     <Compile Include="Assets\Assets\cpulearn.cs" />
-     <Compile Include="Assets\Assets\keyboradlearn.cs" />
-     <Compile Include="Assets\Assets\monitorlearn.cs" />
-     <Compile Include="Assets\Assets\motherboardlearn.cs" />
-     <Compile Include="Assets\Assets\mouselearn.cs" />
-     <Compile Include="Assets\Assets\networklearn.cs" />
-     <Compile Include="Assets\Assets\printerlearn.cs" />
-     <Compile Include="Assets\Assets\printerpractical.cs" />
-     <Compile Include="Assets\Assets\ramlearn.cs" />
-     <Compile Include="Assets\Assets\ReverseNormals.cs" />
-     <Compile Include="Assets\Assets\Sound.cs" />
-     <Compile Include="Assets\Assets\speakerlearn.cs" />
+     <Compile Include="Assets\Backenternal.cs" />
+     <Compile Include="Assets\Backexternal.cs" />
+     <Compile Include="Assets\cpuboxlearn.cs" />
+     <Compile Include="Assets\cpulearn.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\CurvedUIEventSystem.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\CurvedUIExtensionMethods.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\CurvedUIHandSwitcher.cs" />
@@ -93,6 +82,31 @@
      <Compile Include="Assets\CurvedUI\Scripts\Experimental\CurvedUITMP.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\Experimental\CurvedUITMPInputFieldCaret.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\Experimental\CurvedUITMPSubmesh.cs" />
+     <Compile Include="Assets\keyboradlearn.cs" />
+     <Compile Include="Assets\monitorlearn.cs" />
+     <Compile Include="Assets\motherboardlearn.cs" />
+     <Compile Include="Assets\mouselearn.cs" />
+     <Compile Include="Assets\networklearn.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scenes\Scripts\TestScript.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager_Sound.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\MinMaxAttribute.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\SoundEmitter.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\SoundFX.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\SoundFXRef.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scripts\Utils\FastList.cs" />
+     <Compile Include="Assets\Oculus\AudioManager\Scripts\Utils\InspectorNoteAttribute.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scenes\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scripts\helpers\ONSPReflectionZone.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scripts\OculusSpatializerUnity.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPAmbisonicsNative.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPAudioSource.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPProfiler.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPPropagationGeometry.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPPropagationInterface.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPPropagationMaterial.cs" />
+     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPVersion.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Composition\OVRCameraComposition.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Composition\OVRComposition.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Composition\OVRCompositionUtil.cs" />
@@ -141,6 +155,10 @@
      <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRTrackedRemote.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRWaitCursor.cs" />
+     <Compile Include="Assets\printerlearn.cs" />
+     <Compile Include="Assets\printerpractical.cs" />
+     <Compile Include="Assets\ramlearn.cs" />
+     <Compile Include="Assets\ReverseNormals.cs" />
      <Compile Include="Assets\Scenes\BackChoice.cs" />
      <Compile Include="Assets\Scenes\BChocieS.cs" />
      <Compile Include="Assets\Scenes\ContUse.cs" />
@@ -161,6 +179,8 @@
      <Compile Include="Assets\Scenes\PracticalPrinter.cs" />
      <Compile Include="Assets\Scenes\PracticalRAM.cs" />
      <Compile Include="Assets\Scenes\PracticalSpeaker.cs" />
+     <Compile Include="Assets\Sound.cs" />
+     <Compile Include="Assets\speakerlearn.cs" />
      <None Include="Assets\Oculus\VR\Resources\OVRMRUnlitTransparent.shader" />
      <None Include="Assets\Oculus\VR\Resources\OVRMRChromaKey.cginc" />
      <None Include="Assets\Oculus\VR\Shaders\OVRColorRampAlpha.shader" />
@@ -176,19 +196,19 @@
      <None Include="Assets\Oculus\VR\Resources\Underlay Impostor.shader" />
      <None Include="Assets\Oculus\VR\Plugins\placeholder.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Reno/Documents/ScenesV3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Reno/Documents/ScenesV3/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Reno/Documents/ScenesV3/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Reno/Documents/ScenesV3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/Reno/Documents/ScenesV3/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -213,12 +233,6 @@
  </Reference>
  <Reference Include="UnityEngine.ClothModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.ClusterInputModule">
- <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.ClusterRendererModule">
- <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
@@ -276,6 +290,9 @@
  </Reference>
  <Reference Include="UnityEngine.SharedInternalsModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.SpatialTrackingModule">
+ <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.SpriteMaskModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll</HintPath>
@@ -392,13 +409,13 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>C:/Users/Reno/Documents/ScenesV3/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/VRScenes/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/Reno/Documents/ScenesV3/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/VRScenes/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>C:/Users/Reno/Documents/ScenesV3/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/VRScenes/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

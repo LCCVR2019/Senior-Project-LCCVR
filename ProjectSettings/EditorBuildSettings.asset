@@ -6,6 +6,63 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Start.unity
+    guid: fa0913115ac1d4fba8b9d10280f4b04d
+  - enabled: 1
+    path: Assets/Scenes/Choice.unity
+    guid: aa54c1e6b4f3e64419e4c08576dfdef0
+  - enabled: 1
+    path: Assets/Scenes/Enternal.unity
+    guid: afd07b7a412ae2a48b3741ea99b04133
+  - enabled: 1
+    path: Assets/Scenes/External.unity
+    guid: 70745f2bb36d9394da581319a31b188f
+  - enabled: 1
+    path: Assets/Scenes/FCPU.unity
+    guid: a027a95c210985e49ba4a4a442752f6d
+  - enabled: 1
+    path: Assets/Scenes/FCPUBox.unity
+    guid: fa709f2ab6b4a874696a50257622a00f
+  - enabled: 1
+    path: Assets/Scenes/FKeyboard.unity
+    guid: 0254d73239371fd4d9da2c0bd8621203
+  - enabled: 1
+    path: Assets/Scenes/FLearnEn.unity
+    guid: eaf93f4aae6f8f749b7e3630c7e34208
+  - enabled: 1
+    path: Assets/Scenes/FLearnEx.unity
+    guid: a63260fbf6ff4be47a16e0d55802b7d2
+  - enabled: 1
+    path: Assets/Scenes/FMonitor.unity
+    guid: 199260e6c923bd840ab83f9d459729a2
+  - enabled: 1
+    path: Assets/Scenes/FMotherboard.unity
+    guid: e31680bb094ac3240b525dd0b78d639d
+  - enabled: 1
+    path: Assets/Scenes/FMouse.unity
+    guid: f5eb3d700b6867a4080cb668c48497de
+  - enabled: 1
+    path: Assets/Scenes/FNetwork.unity
+    guid: 17129101143b826409053ebca9991e02
+  - enabled: 1
+    path: Assets/Scenes/FPracticalEn.unity
+    guid: c09bc496e5909ee48be7915cf546b021
+  - enabled: 1
+    path: Assets/Scenes/FPracticalEx.unity
+    guid: 71c03301f6fa8974bb13a961090475dd
+  - enabled: 1
+    path: Assets/Scenes/FPrinter.unity
+    guid: 8fd8aa7f3e7754b48be29ffe414ca63c
+  - enabled: 1
+    path: Assets/Scenes/FRAM.unity
+    guid: 4b5a4c441daf5444da36bafc6110420e
+  - enabled: 1
+    path: Assets/Scenes/FSpeaker.unity
+    guid: 9666380b0c25a184a9685d1c417ac30e
+  - enabled: 1
+    path: Assets/Scenes/PEx.unity
+    guid: a2880847bfefbe44d9539e6458d31640
+  - enabled: 1
+    path: Assets/Scenes/PIn.unity
+    guid: 26fdaeac73572b04a9b2885e25efb61f
   m_configObjects: {}

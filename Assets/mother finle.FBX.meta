@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: ea056b7a0fde40448a91506cc72037c3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Line048
+    100002: Line049
+    100004: Line050
+    100006: Line051
+    100008: Line052
+    100010: Line053
+    100012: Line054
+    100014: Line055
+    100016: Line056
+    100018: Line057
+    100020: Line058
+    100022: Line059
+    100024: Line060
+    100026: Line061
+    100028: Line062
+    100030: Line063
+    100032: Line064
+    100034: Line065
+    100036: Line066
+    100038: Line067
+    100040: Line068
+    100042: Line069
+    100044: Line070
+    100046: Line075
+    100048: Line076
+    100050: Line077
+    100052: Line078
+    100054: Line079
+    100056: Line080
+    100058: Line081
+    100060: //RootNode
+    100062: Object004
+    100064: silk002
+    100066: silk003
+    100068: silk004
+    100070: silk005
+    100072: silk006
+    100074: silk007
+    100076: silk008
+    100078: silk009
+    400000: Line048
+    400002: Line049
+    400004: Line050
+    400006: Line051
+    400008: Line052
+    400010: Line053
+    400012: Line054
+    400014: Line055
+    400016: Line056
+    400018: Line057
+    400020: Line058
+    400022: Line059
+    400024: Line060
+    400026: Line061
+    400028: Line062
+    400030: Line063
+    400032: Line064
+    400034: Line065
+    400036: Line066
+    400038: Line067
+    400040: Line068
+    400042: Line069
+    400044: Line070
+    400046: Line075
+    400048: Line076
+    400050: Line077
+    400052: Line078
+    400054: Line079
+    400056: Line080
+    400058: Line081
+    400060: //RootNode
+    400062: Object004
+    400064: silk002
+    400066: silk003
+    400068: silk004
+    400070: silk005
+    400072: silk006
+    400074: silk007
+    400076: silk008
+    400078: silk009
+    2100000: 'Material #25'
+    2100002: 'Material #28'
+    2100004: 'Material #39'
+    2100006: 'Material #27'
+    2100008: 'Material #440'
+    2100010: 'Material #77'
+    2100012: 'Material #76'
+    2100014: 'Material #218'
+    2100016: 'Material #217'
+    2100018: 'Material #26'
+    2100020: 'Material #235'
+    2100022: 'Material #552'
+    2100024: 'Material #75'
+    2100026: 'Material #234'
+    2100028: 'Material #233'
+    2100030: 'Material #232'
+    2100032: 'Material #230'
+    2100034: 'Material #231'
+    2300000: Line048
+    2300002: Line049
+    2300004: Line050
+    2300006: Line051
+    2300008: Line052
+    2300010: Line053
+    2300012: Line054
+    2300014: Line055
+    2300016: Line056
+    2300018: Line057
+    2300020: Line058
+    2300022: Line059
+    2300024: Line060
+    2300026: Line061
+    2300028: Line062
+    2300030: Line063
+    2300032: Line064
+    2300034: Line065
+    2300036: Line066
+    2300038: Line067
+    2300040: Line068
+    2300042: Line069
+    2300044: Line076
+    2300046: Line077
+    2300048: Line078
+    2300050: Line079
+    2300052: Line080
+    2300054: Line081
+    2300056: Object004
+    3300000: Line048
+    3300002: Line049
+    3300004: Line050
+    3300006: Line051
+    3300008: Line052
+    3300010: Line053
+    3300012: Line054
+    3300014: Line055
+    3300016: Line056
+    3300018: Line057
+    3300020: Line058
+    3300022: Line059
+    3300024: Line060
+    3300026: Line061
+    3300028: Line062
+    3300030: Line063
+    3300032: Line064
+    3300034: Line065
+    3300036: Line066
+    3300038: Line067
+    3300040: Line068
+    3300042: Line069
+    3300044: Line076
+    3300046: Line077
+    3300048: Line078
+    3300050: Line079
+    3300052: Line080
+    3300054: Line081
+    3300056: Object004
+    4300000: Object004
+    4300002: Line048
+    4300004: Line049
+    4300006: Line050
+    4300008: Line051
+    4300010: Line052
+    4300012: Line053
+    4300014: Line054
+    4300016: Line055
+    4300018: Line056
+    4300020: Line057
+    4300022: Line058
+    4300024: Line059
+    4300026: Line060
+    4300028: Line061
+    4300030: Line062
+    4300032: Line063
+    4300034: Line064
+    4300036: Line065
+    4300038: Line066
+    4300040: Line067
+    4300042: Line068
+    4300044: Line069
+    4300046: Line076
+    4300048: Line077
+    4300050: Line078
+    4300052: Line079
+    4300054: Line080
+    4300056: Line081
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
