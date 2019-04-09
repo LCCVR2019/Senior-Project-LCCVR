@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/FCPU.unity
+- path: Assets/Scenes/PEx.unity
   isLoaded: 1
   isActive: 1

@@ -9,6 +9,7 @@ public class PlayerEvents : MonoBehaviour
     public static UnityAction OnTouchpadUp = null;
     public static UnityAction OnTouchpadDown = null;
     public static UnityAction OnBack = null;
+    public static UnityAction OnReturnScene = null;
     public static UnityAction<OVRInput.Controller, GameObject> OnControllerSource = null;
     #endregion
 
@@ -127,6 +128,13 @@ public class PlayerEvents : MonoBehaviour
             if (OnBack != null)
                 OnBack();
         }
+        //Trigger
+        if (OVRInput.GetUp(OVRInput.Button.PrimaryIndexTrigger))
+        {
+            if (OnReturnScene != null)
+                OnReturnScene();
+        }
+
     }
 
     private OVRInput.Controller UpdateSource(OVRInput.Controller check, OVRInput.Controller previous)

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C689B886-8C3A-396C-65B8-17402AA049EB}</ProjectGuid>
+    <ProjectGuid>{1290750B-D110-E333-18F4-9CA54A9B2F49}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,9 +53,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\arabicLang.cs" />
-     <Compile Include="Assets\ArabicSupport.cs" />
-     <Compile Include="Assets\ArabicSupport1.cs" />
      <Compile Include="Assets\Assets\_Example\Scripts\Interactable.cs" />
      <Compile Include="Assets\Assets\_Example\Scripts\PlayerEvents.cs" />
      <Compile Include="Assets\Assets\_Example\Scripts\Pointer.cs" />
@@ -64,10 +61,23 @@
      <Compile Include="Assets\Assets\_Motherboard\Scripts\Part.cs" />
      <Compile Include="Assets\Assets\_Motherboard\Scripts\PartTracker.cs" />
      <Compile Include="Assets\Assets\_Motherboard\Scripts\Socket.cs" />
-     <Compile Include="Assets\Backenternal.cs" />
-     <Compile Include="Assets\Backexternal.cs" />
-     <Compile Include="Assets\cpuboxlearn.cs" />
-     <Compile Include="Assets\cpulearn.cs" />
+     <Compile Include="Assets\Assets\arabicLang.cs" />
+     <Compile Include="Assets\Assets\ArabicSupport.cs" />
+     <Compile Include="Assets\Assets\ArabicSupport1.cs" />
+     <Compile Include="Assets\Assets\Backenternal.cs" />
+     <Compile Include="Assets\Assets\Backexternal.cs" />
+     <Compile Include="Assets\Assets\cpuboxlearn.cs" />
+     <Compile Include="Assets\Assets\cpulearn.cs" />
+     <Compile Include="Assets\Assets\keyboradlearn.cs" />
+     <Compile Include="Assets\Assets\monitorlearn.cs" />
+     <Compile Include="Assets\Assets\motherboardlearn.cs" />
+     <Compile Include="Assets\Assets\mouselearn.cs" />
+     <Compile Include="Assets\Assets\networklearn.cs" />
+     <Compile Include="Assets\Assets\printerlearn.cs" />
+     <Compile Include="Assets\Assets\ramlearn.cs" />
+     <Compile Include="Assets\Assets\ReverseNormals.cs" />
+     <Compile Include="Assets\Assets\Sound.cs" />
+     <Compile Include="Assets\Assets\speakerlearn.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\CurvedUIEventSystem.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\CurvedUIExtensionMethods.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\CurvedUIHandSwitcher.cs" />
@@ -82,11 +92,6 @@
      <Compile Include="Assets\CurvedUI\Scripts\Experimental\CurvedUITMP.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\Experimental\CurvedUITMPInputFieldCaret.cs" />
      <Compile Include="Assets\CurvedUI\Scripts\Experimental\CurvedUITMPSubmesh.cs" />
-     <Compile Include="Assets\keyboradlearn.cs" />
-     <Compile Include="Assets\monitorlearn.cs" />
-     <Compile Include="Assets\motherboardlearn.cs" />
-     <Compile Include="Assets\mouselearn.cs" />
-     <Compile Include="Assets\networklearn.cs" />
      <Compile Include="Assets\Oculus\AudioManager\Scenes\Scripts\TestScript.cs" />
      <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AmbienceEmitter.cs" />
      <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\AudioManager.cs" />
@@ -155,10 +160,6 @@
      <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRTrackedRemote.cs" />
      <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRWaitCursor.cs" />
-     <Compile Include="Assets\printerlearn.cs" />
-     <Compile Include="Assets\printerpractical.cs" />
-     <Compile Include="Assets\ramlearn.cs" />
-     <Compile Include="Assets\ReverseNormals.cs" />
      <Compile Include="Assets\Scenes\BackChoice.cs" />
      <Compile Include="Assets\Scenes\BChocieS.cs" />
      <Compile Include="Assets\Scenes\ContUse.cs" />
@@ -179,8 +180,6 @@
      <Compile Include="Assets\Scenes\PracticalPrinter.cs" />
      <Compile Include="Assets\Scenes\PracticalRAM.cs" />
      <Compile Include="Assets\Scenes\PracticalSpeaker.cs" />
-     <Compile Include="Assets\Sound.cs" />
-     <Compile Include="Assets\speakerlearn.cs" />
      <None Include="Assets\Oculus\VR\Resources\OVRMRUnlitTransparent.shader" />
      <None Include="Assets\Oculus\VR\Resources\OVRMRChromaKey.cginc" />
      <None Include="Assets\Oculus\VR\Shaders\OVRColorRampAlpha.shader" />
@@ -196,19 +195,19 @@
      <None Include="Assets\Oculus\VR\Resources\Underlay Impostor.shader" />
      <None Include="Assets\Oculus\VR\Plugins\placeholder.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/ScenesFV/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/ScenesFV/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/ScenesFV/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/ScenesFV/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/Reno/Documents/VRScenes/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/ScenesFV/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -409,13 +408,13 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>C:/Users/Reno/Documents/VRScenes/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/ScenesFV/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/Reno/Documents/VRScenes/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/ScenesFV/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>C:/Users/Reno/Documents/VRScenes/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>C:/Users/Reno/Documents/ScenesFV/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
